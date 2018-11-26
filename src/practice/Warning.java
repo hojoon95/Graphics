@@ -14,7 +14,7 @@ public class Warning extends JFrame {
 
    class MyPanel extends JPanel {
       public void paintComponent(Graphics g) {
-    	  //표지판을 생성해주세요!
+    	  //write the code below
       }
    }
    public static void main(String [] args) {

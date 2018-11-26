@@ -12,7 +12,7 @@ public class GraphicsDrawImageEx1 extends JFrame {
    }
    
    class MyPanel extends JPanel {
-	   //코드를 입력해주세요
+	   //Write the code below
    }
    
    public static void main(String[] args) {
